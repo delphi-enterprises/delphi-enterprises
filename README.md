@@ -19,6 +19,8 @@ On top of all, I am honest, punctual and I have a special way to build a win-win
 
 
 Some of my projects in the past are:
+- Migrated old Angular.js application to Angular 13 application using hybrid architecture, by running both applications at the same time, and move the features one by one.
+- Migrated Vue.js 2 application to Vue.js 3, along with dependant libraries like VueX, Vuetify, vue-router and Pinia, etc...
 - Built an Facebook marketing automation and analytics platform using Node.js on the backend, and Vue, Angular on the frontend, while utilizing Facebook Marketing APIs.
 - Made a Geo-Data analytics platform using Vue.js
 - Built an E-Learning platform for internal employees, consisting of CMS which was built by React.js and mobile apps built by React Native.
